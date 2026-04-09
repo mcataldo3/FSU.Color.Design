@@ -4,8 +4,7 @@
   <title>Color and Design</title>
 
   <introduction>
-    <p>
-    </p>
+    <p> </p>
   </introduction>
   <!-- Include chapters -->
   <subsection xml:id="sec-course-info">
@@ -26,28 +25,24 @@
           </p>
         </li>
 
-
         <li>
           <title>Class meets</title>
 
           <p>
-            Monday/Wednesday in May Hall 407
+            Monday/Wednesday, May Hall 407
             8:30-11:20 am
           </p>
         </li>
 
          <li>
           <title>Always bring to Class</title>
-
           <p>
-            Materials Pack
-            Self
+            Materials pack &amp; Self
           </p>
         </li>
 
         <li>
           <title>Course Description</title>
-
           <p>
             An examination of the language of visual communication, focusing on the principles of design.
             Students explore line, shape, form, value, texture, color, and space in relation to various
@@ -58,7 +53,7 @@
         </li>
       </dl>
 
-  <!-- Use paragraphs to break apart subsections -->
+    <!-- Use paragraphs to break apart subsections -->
     <paragraphs>
       <title>NACE Core Competencies</title>
 
@@ -97,8 +92,12 @@
     <title>Project topics</title>
     <p>
      Making what you see,
+    </p>
+    <p>
      Shape and color,
-     Visual Movement,
+    </p>
+    <p> 
+    Visual Movement,
      Contrast and Balance,
      Creating Depth,
      Storytelling images
@@ -112,12 +111,13 @@
     leaving early is disruptive and will affect your grade. If you have an emergency or you are
     sick, please email me before the beginning of class. If I don’t hear from you, you will not
     receive instructions.
-
+    </p>
+    <p>
     • 4 absences before mid semester will result in a failing grade for the course
     • 4 absences over the semester will result in one full grade drop from your FINAL course grade (for example: from a ‘B’ to a ‘C’).
     • 6 absences will result in a failing grade for the course
-
-
+    </p>
+    <p>
     The information in this syllabus is subject to change. Students will be notified of changes.
     </p>
   </subsection>
@@ -130,7 +130,8 @@
     tutoring, academic success coaching, and disability resources and accommodations. CASA
     is also home to GenerationOne, an affinity group for first-generation college students as
     well as community outreach and mentor-ship programs. CASA is open to all current students.
-
+    </p>
+    <p>
     Academic Misconduct
     All students in attendance at Framingham State University are expected to be honorable
     and to observe standards of conduct appropriate to a community of scholars. The Institution
@@ -139,7 +140,8 @@
     matter and any knowing or intentional help or attempt to help, or conspiracy to help,
     another student. The university policy regarding academic honesty will be followed in the
     event of academic misconduct. (*See Framingham State University Undergraduate Catalog).
-
+    </p>
+    <p>
     Security/Safety/Responsibility
     The computers are for students enrolled in graphic design courses. Printing in the computer
     lab is for graphic design only (for example, please do not print a 150 page history book
