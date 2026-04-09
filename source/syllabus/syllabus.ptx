@@ -14,6 +14,7 @@
     <p>
       This is the syllabus for <term>ARTS 222001</term> Fall 2026.
       <!-- use a description list (dl) for short items -->
+    </p>
       <dl>
         <li>
           <title>Instructor</title>
@@ -55,6 +56,7 @@
           </p>
        
         </li>
+      </dl>
 
   <!-- Use paragraphs to break apart subsections -->
     <paragraphs>
