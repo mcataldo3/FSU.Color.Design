@@ -2,12 +2,12 @@
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
 <worksheet xml:id="activity-01-intro-activity">
-  <title>Introduction Activity</title>
+  <title>Projects Color &amp; Design</title>
 
   <!-- Optional introduction -->
   <introduction>
     <p>
-      This is the introduction to the activity.
+      Creating value, balancing positive and negative space
     </p>
   </introduction>
 
