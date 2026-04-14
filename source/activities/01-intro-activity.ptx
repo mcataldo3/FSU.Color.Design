@@ -13,8 +13,8 @@
 
  <figure xml:id="figbw">
   <caption>ink</caption>
-  <image source="bw.jpg" width="25%"/>
-  <!--/image>
+  <image source="bw.jpg" width="25%">
+  </image>
 </figure>
 
 </worksheet>
