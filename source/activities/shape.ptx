@@ -7,17 +7,14 @@
   <!-- Optional introduction -->
   <introduction>
     <p>
-      This is the introduction to the activity.
+    Creating abstract depth in a space using shape without traditional landscape perspective 
     </p>
   </introduction>
 
-  <!-- Exercises start here. -->
-  <exercise workspace="2in">
-    <statement>
-      <p>
-        This is the first exercise.
-      </p>
-    </statement>
-  </exercise>
+<figure xml:id="figshapepaint">
+  <caption></caption>
+  <image source="shapepaint.jpg" width="25%">
+  </image>
+</figure>
 
 </worksheet>
