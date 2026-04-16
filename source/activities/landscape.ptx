@@ -7,40 +7,14 @@
   <!-- Optional introduction -->
   <introduction>
     <p>
-      Creating a place with believable depth using value, color, space, scale 
+     Creating a landscape with believable depth using color, overlap, value, scale, and space
     </p>
   </introduction>
 
- <figure xml:id="imaginedland5">
-  <caption></caption>
-  <image source="imaginedland5.jpg" width="40%">
+  <figure xml:id="figimaginedlands">
+  <caption>ink</caption>
+  <image source="imaginedlands.jpg" width="35%">
   </image>
-</figure>
-
- <figure xml:id="imaginedland4">
-  <caption></caption>
-  <image source="imaginedland4.jpg" width="40%">
-  </image>
-</figure>
-
- <figure xml:id="imaginedland3">
-  <caption></caption>
-  <image source="imaginedland3.jpg" width="40%">
-  </image>
-</figure>
-
- <figure xml:id="imaginedland2">
-  <caption></caption>
-  <image source="imaginedland2.jpg" width="40%">
-  </image>
-</figure>
-
- <figure xml:id="imaginedlands">
-  <caption></caption>
-  <image source="imaginedlands.jpg" width="40%">
-  </image>
-</figure>
+  </figure>
 
 </worksheet>
-
-
