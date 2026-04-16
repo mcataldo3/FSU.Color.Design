@@ -32,7 +32,7 @@
 
       <!-- Remove the example and replace with your own activities -->
       <xi:include href="./activities/01-intro-activity.ptx"/>
-      <xi:include href="./imaginedlandscape.ptx"/>
+      <xi:include href="./landscape.ptx"/>
       <xi:include href="./shape.ptx"/>
       <xi:include href="./portrait.ptx"/>
 
