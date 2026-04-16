@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- When creating a new activity, make a copy of this file with appropriate name -->
+<worksheet xml:id="activity-02-activity">  
+<title>Imagined Landscape</title>
+
+  <!-- Optional introduction -->
+  <introduction>
+    <p>
+      Creating a place with believable depth using value, color, space, scale 
+    </p>
+  </introduction>
+
+ <figure xml:id="imaginedland5">
+  <caption></caption>
+  <image source="imaginedland5.jpg" width="40%">
+  </image>
+</figure>
+
+ <figure xml:id="imaginedland4">
+  <caption></caption>
+  <image source="imaginedland4.jpg" width="40%">
+  </image>
+</figure>
+
+ <figure xml:id="imaginedland3">
+  <caption></caption>
+  <image source="imaginedland3.jpg" width="40%">
+  </image>
+</figure>
+
+ <figure xml:id="imaginedland2">
+  <caption></caption>
+  <image source="imaginedland2.jpg" width="40%">
+  </image>
+</figure>
+
+ <figure xml:id="imaginedlands">
+  <caption></caption>
+  <image source="imaginedlands.jpg" width="40%">
+  </image>
+</figure>
+
+</worksheet>
