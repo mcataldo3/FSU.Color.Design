@@ -17,4 +17,22 @@
   </image>
 </figure>
 
+ <figure xml:id="figbw2">
+  <caption>ink</caption>
+  <image source="bw2.jpg" width="35%">
+  </image>
+</figure>
+
+<figure xml:id="figbw3">
+  <caption>ink</caption>
+  <image source="bw3.jpg" width="35%">
+  </image>
+</figure>
+
+<figure xml:id="figbw4">
+  <caption>ink</caption>
+  <image source="bw4.jpg" width="35%">
+  </image>
+</figure>
+
 </worksheet>
