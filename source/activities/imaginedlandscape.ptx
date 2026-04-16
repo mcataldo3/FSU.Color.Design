@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- When creating a new activity, make a copy of this file with appropriate name -->
-<worksheet xml:id="activity-02-activity">  
-<title>Imagined Landscape</title>
+<worksheet>
+  <title>Imagined Landscape</title>
 
   <!-- Optional introduction -->
   <introduction>
@@ -40,5 +40,8 @@
   <image source="imaginedlands.jpg" width="40%">
   </image>
 </figure>
+
+</worksheet>
+
 
 </worksheet>
