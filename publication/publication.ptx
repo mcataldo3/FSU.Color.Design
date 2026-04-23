@@ -148,7 +148,7 @@
     <css
         theme="default-modern"
         primary-color="#009463"
-        secondary-color="#46db9e"
+        secondary-color="#ff46a2"
         primary-color-dark="#009463"
         provide-dark-mode="yes"
     />
